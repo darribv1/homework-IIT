@@ -12,3 +12,6 @@
 8. Размещен статический сайт на GitHub Pages.
 
 ## Ссылки
+
+- [Ссылка на репозиторий](https://github.com/ТВОЙ_НИК/homework-IIT)
+- [Ссылка на сайт на GitHub Pages](https://ТВОЙ_НИК.github.io/homework-IIT/)
